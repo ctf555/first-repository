@@ -1,6 +1,6 @@
 def is_prime_number(x):
     if x <=1:
-        print("Error: the input value hsould be larger than 1")
+        print("Error: the input value should be larger than 1")
     else:
         for num in range(2, x):
             if x % num == 0:
