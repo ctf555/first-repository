@@ -1,5 +1,7 @@
-def print_hello():
-    print("Hello World!!")
+def sub(x,y):
+    x=5
+    y=6
+    print(x-y)
 
 def print_KIT():
     print("Kumoh National Institute of Technology")
